@@ -16,7 +16,7 @@ Este es un escáner de puertos básico hecho en Python. Permite escanear un rang
 ##  Tecnologías utilizadas
 
 - Python 3
-- Módulos: socket, datetime
+- Módulos: `socket`, `datetime`
 
 ---
 
